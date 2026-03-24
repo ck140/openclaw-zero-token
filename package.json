@@ -212,6 +212,10 @@
       "types": "./dist/plugin-sdk/keyed-async-queue.d.ts",
       "default": "./dist/plugin-sdk/keyed-async-queue.js"
     },
+    "./plugin-sdk/web-models": {
+      "types": "./dist/plugin-sdk/web-models.d.ts",
+      "default": "./dist/plugin-sdk/web-models.js"
+    },
     "./cli-entry": "./openclaw.mjs"
   },
   "scripts": {

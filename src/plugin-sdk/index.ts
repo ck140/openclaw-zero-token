@@ -809,3 +809,6 @@ export type { ResolvedProviderAuth } from "../agents/model-auth.js";
 
 // Security utilities
 export { redactSensitiveText } from "../logging/redact.js";
+
+// Web models plugin SDK
+export * from "./web-models";
